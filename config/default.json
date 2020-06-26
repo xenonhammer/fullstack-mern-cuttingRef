@@ -1,4 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://xenonhammer46@gmail.com:yZ6Qs8sw2qFHRG@cluster0-oaxzf.mongodb.net/freelancersBoard?retryWrites=true&w=majority"
+  "jwtSecret": "xenonizators with your mind",
+  "mongoUri": "mongodb+srv://xenonhammer:331772@cluster0-oaxzf.mongodb.net/app?retryWrites=true&w=majority"
 }
